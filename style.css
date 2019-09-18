@@ -1,0 +1,17 @@
+body{
+background-color: grey
+}
+
+.heading{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+  color: antiquewhite
+}
+
+.subheading{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  color: black
+}
