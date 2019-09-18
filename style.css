@@ -6,12 +6,32 @@ background-color: grey
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 50px;
-  color: antiquewhite
+  color: antiquewhite;
+  font-weight: bolder
 }
 
 .subheading{
+  padding: 3px;
+  margin: 5px;
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 15px;
-  color: black
+  font-size: 20px;
+  color: black;  
+}
+.image{
+  margin-top: 10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  text-align: center;
+  background-color: cornsilk;
+  color: black;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#MainImg{  
+  width: 700px;
+  height: 500px;
+  margin: 50px;
+  margin-bottom: 10px;
 }
