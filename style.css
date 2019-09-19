@@ -10,6 +10,10 @@ border:solid red;
 border-radius: 30px;
 }
 
+.InnerBody.light {
+  background-color: white; 
+}
+
 .heading{
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
