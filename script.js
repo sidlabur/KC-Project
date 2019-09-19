@@ -36,6 +36,6 @@ function option()
 function form()
 { 
     var bootstrapForm = document.getElementById("bootstrap-form");
-    bootstrapForm.style =  "display:inital";
+    bootstrapForm.style = "display:inital";
     alert("yes");
 }
